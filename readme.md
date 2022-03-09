@@ -1,5 +1,3 @@
-hgfjmyfmuy
-
 
 ### Feature list
 * Feature 1
